@@ -1,0 +1,7 @@
+
+fn add(a int, b int) int {
+    a + b
+}
+
+let c = 3
+c = add(1, 2)
